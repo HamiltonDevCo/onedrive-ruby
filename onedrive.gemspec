@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jordi@jrom.net"]
 
   spec.summary       = %q{Ruby Gem to interact with OneDrive's API}
-  spec.description   = %q{TODO}
+  spec.description   = 'Ruby Wrapper for One Drive'
   spec.homepage      = "https://github.com/jrom/onedrive-ruby"
   spec.license       = "MIT"
 
